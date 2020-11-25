@@ -3,9 +3,7 @@ My maintained projects
 | Project | Status | Open PRs | Open Issues |
 | ------- | ------ | -------- | ----------- |
 
-| [Persist](https://github.com/JosephDuffy/Persist) | [![Tests Status](https://github.com/JosephDuffy/Persist/workflows/Tests/badge.svg)](https://github.com/JosephDuffy/Persist/actions?query=workflow%3ATests)
-
-![Supported Xcode Versions](https://raw.githubusercontent.com/JosephDuffy/Persist/master/.github/xcode-versions-badge.svg)
+| [Persist](https://github.com/JosephDuffy/Persist) | [![Tests Status](https://github.com/JosephDuffy/Persist/workflows/Tests/badge.svg)](https://github.com/JosephDuffy/Persist/actions?query=workflow%3ATests) ![Supported Xcode Versions](https://raw.githubusercontent.com/JosephDuffy/Persist/master/.github/xcode-versions-badge.svg)
 | [![Open Pull Requests](https://img.shields.io/github/issues-pr/JosephDuffy/Persist.svg)](https://github.com/JosephDuffy/Persist/pulls) | [![Open Issues](https://img.shields.io/github/issues/JosephDuffy/Persist.svg)](https://github.com/JosephDuffy/Persist/issues/) |
 
 | [Partial](https://github.com/JosephDuffy/Partial) | [![Tests Status](https://github.com/JosephDuffy/Partial/workflows/Tests/badge.svg)](https://github.com/JosephDuffy/Partial/actions?query=workflow%3ATests) | [![Open Pull Requests](https://img.shields.io/github/issues-pr/JosephDuffy/Partial.svg)](https://github.com/JosephDuffy/Partial/pulls) | [![Open Issues](https://img.shields.io/github/issues/JosephDuffy/Partial.svg)](https://github.com/JosephDuffy/Partial/issues/) |
